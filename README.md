@@ -1,1 +1,1 @@
-My first readme
+some chnages were made and i learnt how to work with git
